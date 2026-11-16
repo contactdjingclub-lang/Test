@@ -2,7 +2,7 @@
   "id": "1b392270-89a2-48d1-9d06-c99e16ca05f2",
   "type": "liveproject",
   "tag": "div",
-  "name": "Land-book",
+  "name": "Polar",
   "parent": "b75a058c-a2f1-4a16-85df-698398faaf97",
   "order": "d",
   "breakpoints": [
@@ -27,7 +27,7 @@
   ],
   "createdAt": "2026-11-16T17:00:17.259Z",
   "props": {
-    "src": "https://land-book.com/",
+    "src": "https://polar.sh/?ref=land-book.com",
     "view": "viewport",
     "data-codecaine-id": "fcf70773-a44e-4182-aab5-cd9bedaf52f2"
   },
@@ -43,5 +43,5 @@
     "left": 2997.9986327356164,
     "top": 375.6388428751979
   },
-  "updatedAt": "2026-11-16T17:00:26.283Z"
+  "updatedAt": "2026-11-16T17:00:37.354Z"
 }
