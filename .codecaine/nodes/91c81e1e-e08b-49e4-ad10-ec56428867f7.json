@@ -27,11 +27,7 @@
   ],
   "props": {
     "src": "https://tk9968k5crunx6be-run.codecainehq.com/",
-    "data-codecaine-id": "261013a8-481d-41ce-9f99-ecd718ba8800",
-    "projectMedia": [
-      "asset:media/images/31c8978a9820b0a3ea49.jpg",
-      "asset:media/images/a07b814ccccbd23c7496.jpg"
-    ]
+    "data-codecaine-id": "261013a8-481d-41ce-9f99-ecd718ba8800"
   },
   "sizing": {
     "width": "fixed",
@@ -44,6 +40,5 @@
     "width": 1280,
     "height": 900,
     "backgroundColor": "#ffffff"
-  },
-  "updatedAt": "2026-11-16T17:01:16.784Z"
+  }
 }
