@@ -1,0 +1,44 @@
+{
+  "id": "91c81e1e-e08b-49e4-ad10-ec56428867f7",
+  "type": "liveproject",
+  "tag": "div",
+  "name": "Test",
+  "parent": "b75a058c-a2f1-4a16-85df-698398faaf97",
+  "order": "G",
+  "breakpoints": [
+    {
+      "id": "desktop",
+      "label": "Desktop",
+      "minWidth": 1280,
+      "width": 1280
+    },
+    {
+      "id": "tablet",
+      "label": "Tablet",
+      "minWidth": 800,
+      "width": 834
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile",
+      "minWidth": 0,
+      "width": 390
+    }
+  ],
+  "props": {
+    "src": "https://tk9968k5crunx6be-run.codecainehq.com/",
+    "data-codecaine-id": "261013a8-481d-41ce-9f99-ecd718ba8800"
+  },
+  "sizing": {
+    "width": "fixed",
+    "height": "hug"
+  },
+  "style": {
+    "position": "absolute",
+    "left": 0,
+    "top": 0,
+    "width": 1280,
+    "height": 900,
+    "backgroundColor": "#ffffff"
+  }
+}

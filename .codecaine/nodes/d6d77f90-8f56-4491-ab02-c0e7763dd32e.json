@@ -1,0 +1,14 @@
+{
+  "id": "d6d77f90-8f56-4491-ab02-c0e7763dd32e",
+  "type": "text",
+  "tag": "span",
+  "parent": "56edd0fe-54fe-42f1-a5e4-b326ea7280d7",
+  "order": "8",
+  "createdAt": "2026-11-16T17:00:05.716Z",
+  "props": {
+    "text": "Make room",
+    "data-codecaine-id": "791150b8-3645-4526-90f9-b84a9dcf49db"
+  },
+  "style": {},
+  "updatedAt": "2026-11-16T17:00:05.716Z"
+}
