@@ -35,10 +35,11 @@
   },
   "style": {
     "position": "absolute",
-    "left": 0,
-    "top": 0,
+    "left": -266.70034313440357,
+    "top": -200.4771856552214,
     "width": 1280,
     "height": 900,
     "backgroundColor": "#ffffff"
-  }
+  },
+  "updatedAt": "2026-11-17T10:53:46.395Z"
 }
